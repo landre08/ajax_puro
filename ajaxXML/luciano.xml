@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="URF-8"?>
+<LANDRE>
+    <COURSE>
+        <TITLE id="1">Java</TITLE>
+        <INSTRUCTOR>Luciano</INSTRUCTOR>
+        <TYPE>Regular</TYPE>
+    </COURSE>
+        <COURSE>
+        <TITLE id="5">PHP</TITLE>
+        <INSTRUCTOR>NAthalia</INSTRUCTOR>
+        <TYPE>Regular</TYPE>
+    </COURSE>
+        <COURSE>
+        <TITLE id="17">PHP Avançado</TITLE>
+        <INSTRUCTOR>Luciano</INSTRUCTOR>
+        <TYPE>Express</TYPE>
+    </COURSE>
+</LANDRE>
